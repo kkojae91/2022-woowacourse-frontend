@@ -2,6 +2,8 @@
 
 2022년 2월 8일 ~ 2022년 11월 (총 10개월)
 
+<br /><br />
+
 ## 레벨 1 - 프로그래밍 기본
 
 - 기간: 2022년 2월 9일 ~ 2022년 4월 7일 (9주)
@@ -33,6 +35,8 @@
   - [콜백 함수(callback function)](https://velog.io/@kkojae91/%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98callback-function)
   - [프로토타입(Prototype)](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85Prototype)
 
+<br /><br />
+
 ## 레벨 2 - 웹 프로그래밍
 
 - 기간: 2022년 4월 18일 ~ 2022년 6월 9일 (8주)
@@ -55,6 +59,8 @@
   - [리액트 적응기 - JSX에 대해 생각해보기](https://velog.io/@kkojae91/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%A0%81%EC%9D%91%EA%B8%B0-JSX%EC%97%90-%EB%8C%80%ED%95%B4-%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0)
   - [리액트 적응기 - Virtual DOM 가볍게 훑어보기](https://velog.io/@kkojae91/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%A0%81%EC%9D%91%EA%B8%B0-Virtual-DOM-%EA%B0%80%EB%B3%8D%EA%B2%8C-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0)
   - [리액트 적응기 - state & props](https://velog.io/@kkojae91/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%A0%81%EC%9D%91%EA%B8%B0-state-props)
+
+<br /><br />
 
 ## 레벨 3, 레벨 4 - 팀 프로젝트, 웹 프로그래밍 심화
 
@@ -92,6 +98,8 @@
   - [프로젝트에서 font 사용하기](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-font-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   - [Calendar 컴포넌트 구현하기](https://velog.io/@kkojae91/Calendar-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
   - [PropsWithChildren는 안전한 타입일까?!](https://velog.io/@kkojae91/PropsWithChildren%EB%8A%94-%EC%95%88%EC%A0%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%9D%BC%EA%B9%8C)
+
+<br /><br />
 
 ## 레벨 5 - 개인 학습, 취업 준비
 
