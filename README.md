@@ -90,7 +90,7 @@
   --|--|--
   성능 베이스 캠프 | [PR](https://github.com/woowacourse/perf-basecamp/pull/41) | -
   타입 스크립트 | [PR](https://github.com/woowacourse/ts-module/pull/11) | -
-  웹 접근성 | [PR](https://github.com/woowacourse/a11y-airline/pull/44) | PR
+  웹 접근성 | [PR](https://github.com/woowacourse/a11y-airline/pull/44) | [PR](https://github.com/woowacourse/a11y-airline/pull/98)
 
 - 블로그 포스팅
   - [리엑트 프로젝트에서 아이콘 다루기](https://velog.io/@kkojae91/%EB%A6%AC%EC%97%91%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
@@ -98,6 +98,7 @@
   - [프로젝트에서 font 사용하기](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-font-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   - [Calendar 컴포넌트 구현하기](https://velog.io/@kkojae91/Calendar-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
   - [PropsWithChildren는 안전한 타입일까?!](https://velog.io/@kkojae91/PropsWithChildren%EB%8A%94-%EC%95%88%EC%A0%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%9D%BC%EA%B9%8C)
+  - [줍줍 프로젝트 성능최적화 이야기](https://velog.io/@kkojae91/%EC%A4%8D%EC%A4%8D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 <br /><br />
 
