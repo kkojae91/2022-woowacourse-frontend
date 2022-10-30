@@ -33,7 +33,6 @@
   - [Cypress에서 API 모킹하기](https://velog.io/@kkojae91/Cypress%EC%97%90%EC%84%9C-API-%EB%AA%A8%ED%82%B9%ED%95%98%EA%B8%B0)
   - [타입스크립트 interface, type 컨벤션과 readonly 속성](https://velog.io/@kkojae91/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-interface-type-%EC%BB%A8%EB%B2%A4%EC%85%98%EA%B3%BC-readonly-%EC%86%8D%EC%84%B1)
   - [콜백 함수(callback function)](https://velog.io/@kkojae91/%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98callback-function)
-  - [프로토타입(Prototype)](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85Prototype)
 
 <br /><br />
 
@@ -76,14 +75,14 @@
   - 브라우저의 동작 원리와 네트워크에 대해 이해하고 프론트엔드 웹 애플리케이션의 성능을 최적화합니다.
   - 웹 표준과 웹 접근성을 준수하고 시맨틱 마크업을 위해 중요한 요소들을 이해하고 구현합니다.
   - 프론트엔드 웹 애플리케이션의 유형에 따른 배포 전략을 이해합니다.
-- 관련 유튜브 영상
+- 데모데이
 
-  - [[프로젝트 1차 데모] 줍줍 - 프로젝트 설명 / 팀의 문화 및 원칙 / 구현한 서비스의 핵심 기능](https://www.youtube.com/watch?v=6rfkFdJCxDw)
-  - [[프로젝트 2차 데모] 줍줍 - API 연동 / AWS EC2 배포 / 브랜치 전략 공유 / 백엔드 프론트엔드 몹 프로그래밍 경험 공유](https://www.youtube.com/watch?v=H6rm16DesPo)
-  - [[프로젝트 3차 데모] 줍줍 - 시맨틱 버저닝 추가 / 테스트 전략 수립 후 자동화 테스트 코드 추가 / 백엔드 프론트엔드 몹 프로그래밍 경험 공유](https://www.youtube.com/watch?v=LQOhHfKPuC0)
-  - [[프로젝트 4차 데모] 줍줍 - 성능 리포트 공유 / 테스트 자동화 / 백엔드 프론트엔드 몹 프로그래밍 경험 공유](https://www.youtube.com/watch?v=VmXdJLkfBVE)
-  - [프로젝트 5차 데모] 줍줍 -
-  - [프로젝트 6차 데모] 줍줍 -
+  - [[프로젝트 1차 데모 영상]](https://www.youtube.com/watch?v=6rfkFdJCxDw)
+  - [[프로젝트 2차 데모 영상]](https://www.youtube.com/watch?v=H6rm16DesPo)
+  - [[프로젝트 3차 데모 영상]](https://www.youtube.com/watch?v=LQOhHfKPuC0)
+  - [[프로젝트 4차 데모 영상]](https://www.youtube.com/watch?v=VmXdJLkfBVE)
+  - [프로젝트 5차 데모 영상] - 영상 준비중
+  - [[프로젝트 6차 데모 사이트]](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%A4%8D%EC%A4%8D)
 
 - 웹 프로그래밍 심화
   프로젝트 | 1단계 | 2단계
@@ -99,6 +98,8 @@
   - [Calendar 컴포넌트 구현하기](https://velog.io/@kkojae91/Calendar-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
   - [PropsWithChildren는 안전한 타입일까?!](https://velog.io/@kkojae91/PropsWithChildren%EB%8A%94-%EC%95%88%EC%A0%84%ED%95%9C-%ED%83%80%EC%9E%85%EC%9D%BC%EA%B9%8C)
   - [줍줍 프로젝트 성능최적화 이야기](https://velog.io/@kkojae91/%EC%A4%8D%EC%A4%8D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+  - [DateTimePicker 컴포넌트 구현하기](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C-Date-Time-Picker-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+  - [프로젝트 검색엔진 최적화](https://velog.io/@kkojae91/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94)
 
 <br /><br />
 
